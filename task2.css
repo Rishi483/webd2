@@ -1,0 +1,52 @@
+body{
+    background-color: yellow;
+    background-image: linear-gradient(yellow,green,red);
+}
+
+.all{
+    width:90%;
+    height: auto;
+    margin: 5% auto 5% auto;
+    border-radius: 3%;
+    box-shadow: 8px 8px 8px 8px;
+    background-color: white;
+    padding-bottom: 2%;
+    text-align: center;
+    font-family: 'Ubuntu';
+}
+h1{
+    font-family: 'Montserrat-900';
+}
+
+.myphoto{
+    width: 10%;
+    border-radius: 100%;
+    border: 2px solid;
+    border-color: orange;
+}
+
+.emailid:hover{
+   color: green;
+}
+
+.line1{
+    margin-bottom: 0;
+}
+.line2{
+    margin-top: 0;
+}
+.table{
+    margin:10px auto 30px auto;
+}
+.icon-star{
+    color: gold;
+}
+.form{
+   float: left;
+   margin-left: 25%;
+
+}
+#xyz{
+    margin-left: 25%;
+    margin-bottom: 2%;
+}
